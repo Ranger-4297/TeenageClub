@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Teenageclub
-permalink: Teenageclub
 ---
 
 # Welcome!
