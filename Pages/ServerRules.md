@@ -5,7 +5,7 @@ description: This is just another page
 permalink: Rules
 ---
 
-![TCRules](/assets/images/TCR.png)
+![TCRules](/assets/images/TCR.png){:class="img-responsive"}
 
 
 Written and composed under our staff rules, server rules, and guidelines by Ranger (765316548516380732).
