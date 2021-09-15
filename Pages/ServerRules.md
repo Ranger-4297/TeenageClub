@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: Server Rules
 description: This is just another page
 permalink: Rules
 ---
