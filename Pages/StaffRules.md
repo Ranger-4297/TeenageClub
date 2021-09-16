@@ -44,7 +44,7 @@ If a staff member is having issues with another staff member, they should always
 
 #### Rule 5. Enforcement of rules
 
-Enforcement of rules shall only be done following the <span style="background-color: #89cff0"><a href="Rules">Servers rules & guidelines</a></a></span>. You will not make up your own rules or punish people if they have not violate these rules, as-well as, do not take rash decisions. If you are unsure about anything, contact a lead or trusted staff member.
+Enforcement of rules shall only be done following the <span style="background-color: #89cff0"><a href="Rules">Servers rules & guidelines</a></span>. You will not make up your own rules or punish people if they have not violate these rules, as-well as, do not take rash decisions. If you are unsure about anything, contact a lead or trusted staff member.
 
 #### Rule 6. Promotions
 
