@@ -5,7 +5,7 @@ description: Rules the general public of our server need to follow
 permalink: Moderation-Guides
 ---
 
-![TCModeration-Guides](images/TCMG.png)
+![TCModeration-Guides](images/TCG.png)
 
 
 Written and composed under our staff rules, server rules, and guidelines by Ranger (765316548516380732).
