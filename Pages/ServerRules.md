@@ -160,7 +160,7 @@ Teenage Club is a community for teenagers. We do not officially support dating a
 
 ## Other information
 
-Server bans can be appealed a total of 1 time(s). If you're banned again, you are permanently banned and are unable to appeal. 1st bans can be appealed @ our ban appeals.
+Server bans can be appealed a total of 1 time(s). If you're banned again, you are permanently banned and are unable to appeal. 1st bans can be appealed [@ our ban appeals](https://forms.gle/YbeyooR41PZ6Ce3B8).
 
 <br>
 
