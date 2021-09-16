@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Server Rules
+title: Mod Guides
 description: Rules the general public of our server need to follow
 permalink: Moderation-Guides
 ---
