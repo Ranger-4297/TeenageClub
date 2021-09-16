@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Server Rules
-description: This is just another page
+description: Rules the general public of our server need to follow
 permalink: Rules
 ---
 
