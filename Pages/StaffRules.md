@@ -63,7 +63,7 @@ As a staff member you are required to follow and enforce the server rules, just 
 
 ### Voice rules
 
-#### Rule - 1. Voice powers
+#### Rule 1. Voice powers
 
 Muting, deafening, moving or disconnecting members
 Server muting, deafening, moving and disconnecting members in a voice channel without valid reason may result in your voice channel perms being removed.
@@ -73,22 +73,22 @@ Appropriate use of said commands may be users ear-raping voice channels, members
 
 ### Disclaimers
 
-#### DC 1 ]
+#### DC 1.
 
 While you do reserve the right to delete any message, deleting messages just 'for fun' or without valid reasoning is not acceptable and may result in the loss of permissions.
-#### DC 2 ]
+#### DC 2.
 
 Moderators reserve the right to change or set nicknames at any given time, although should only do so if a nickname or username violates rules or staff instruction.
-#### DC 3 ]
+#### DC 3.
 
 Moderators reserve the right to use their own discretion, even if this rulebook doesn't explicitly state it. However, abusing these rights without acceptable reason leaves you viable for removal of staff.
-#### DC 4 ]
+#### DC 4.
 
 Whilst Moderators have the final say in all interpretations, all staff members must do their best to investigate any sort of incident.
-#### DC 5 ]
+#### DC 5.
 
 Any member of the server is sanctioned in according to the rules. Whether they claim to not of read them or not.
-#### DC 6 ]
+#### DC 6.
 
 While allowed to ask members anything <span style="background-color: #89cff0">WITHIN REASON</span>, asking members of things that violate our staff rules or making outrages is out of the question and can also result in the loss of rank, depending on what was asked.
 
