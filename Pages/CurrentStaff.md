@@ -5,32 +5,123 @@ description: Staff members in our server
 permalink: Staff
 ---
 
-<div class="row">
-  <div class="col m4">
-    <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-      <div class="card-image">
-        <img src="http://www.ilikewallpaper.net/ipad-wallpapers/download/2268/Square-Pattern-ipad-wallpaper-ilikewallpaper_com.jpg">
-        <span class="card-title" style="width:100%; background: rgba(0, 0, 0, 0.5);">Sample1</span>
-      </div>
-      <div class="card-content">
-        <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
-      </div>
-      <div class="card-action">
-        <a href="#">This is a link</a>
+<head>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+  
+<div class="row row-cols-1 row-cols-md-2">
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Binod.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Binod | Owner</h5>
+        <p class="card-text">Content here</p>
       </div>
     </div>
   </div>
-  <div class="col m4">
+  <div class="col mb-4">
     <div class="card">
-      <div class="card-image">
-        <img src="http://www.ilikewallpaper.net/ipad-wallpapers/download/2268/Square-Pattern-ipad-wallpaper-ilikewallpaper_com.jpg">
-        <span class="card-title" style="width:100%; background: rgba(0, 0, 0, 0.5);">Sample2</span>
+      <img src="avatars/Acno.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Acnologia | Head Admin</h5>
+        <p class="card-text">Content here</p>
       </div>
-      <div class="card-content">
-        <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Moni.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Monisa | Admin</h5>
+        <p class="card-text">Content here</p>
       </div>
-      <div class="card-action">
-        <a href="#">This is a link</a>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Icey.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Icey | Admin</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row row-cols-1 row-cols-md-2">
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Ranger.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Ranger | Community Manager</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Pigeon.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Pigeon | Head Mod</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/rage.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Ragesnow | Moderator</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Hrutika.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Hrutika | Moderator</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row row-cols-1 row-cols-md-2">
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Ash.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Ash | Trial Moderator</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Dango.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Dango | Trial Moderator</h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Saori.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Saori | Trial Moderator </h5>
+        <p class="card-text">Content here</p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
+      <img src="avatars/Litzie.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Litzie | Trial Moderator</h5>
+        <p class="card-text">Content here</p>
       </div>
     </div>
   </div>
