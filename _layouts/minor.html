@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+<link rel="shortcut icon" type="image/jpg" href="images/Banner.png" />
+<!-- Discord embeds -->
+<meta content="TeenageClub" property="og:title" />
+<meta content="TeenageClub rules and guidelines!" property="og:description" />
+<meta content="https://ranger-4297.github.io/TeenageClub/" property="og:url" />
+<meta content="https://ranger-4297.github.io/TeenageClub/images/Banner.png" property="og:image" />
+<meta content="#ffc0cb" data-react-helmet="true" name="theme-color" />
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .navbar a {
+            float: left;
+            font-size: 16px;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .subnav {
+            float: left;
+            overflow: hidden;
+        }
+
+        .subnav .subnavbtn {
+            font-size: 16px;
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 16px;
+            background-color: inherit;
+            font-family: inherit;
+            margin: 0;
+        }
+
+        .navbar a:hover,
+        .subnav:hover .subnavbtn {
+            background-color: #155799;
+        }
+
+        .subnav-content {
+            display: none;
+            position: absolute;
+            left: 0;
+            background-color: #155799;
+            width: 100%;
+            z-index: 1;
+        }
+
+        .subnav-content a {
+            float: left;
+            color: white;
+            text-decoration: none;
+        }
+
+        .subnav-content a:hover {
+            background-color: #eee;
+            color: black;
+        }
+
+        .subnav:hover .subnav-content {
+            display: block;
+        }
+    </style>
+
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+        type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+</head>
+
+<body>
+    <div class="navbar">
+        <a href="/TeenageClub/">Home</a>
+    </div>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default:
+            site.github.project_tagline }}</h2>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+        {{ content }}
+
+        <footer class="site-footer">
+            {% if site.github.is_project_page %}
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name
+                    }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name
+                    }}</a>.</span>
+            {% endif %}
+        </footer>
+    </main>
+</body>
+
+</html>

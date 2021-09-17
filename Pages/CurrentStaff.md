@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minor
 title: Staff
 description: Staff members in our server
 permalink: Staff
