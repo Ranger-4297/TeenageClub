@@ -5,5 +5,4 @@ title: Teenageclub
 
 # Welcome!
 
-This is the main page to the TeenageClub Jekyll site on GitHub!
-This site is here, largely for a way to include all our rules and documents onto one site, so that they're easier to read
+This is in no way the completed site. Once finished, I'll be adding a proper homepage : D
