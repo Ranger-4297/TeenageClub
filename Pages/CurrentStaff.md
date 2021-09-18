@@ -1,15 +1,10 @@
 ---
-layout: minor
+layout: default
 title: Staff
 description: Staff members in our server
 permalink: Staff
+
 ---
-
-<head>
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-</head>
-
 
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
