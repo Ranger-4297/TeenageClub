@@ -15,7 +15,7 @@ permalink: Staff
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
     <div class="card">
-      <img src="..\Pages\avatars\Binod.png" class="card-img-top" alt="...">
+      <img src="avatars/Binod.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Binod | Owner</h5>
         <p class="card-text">Content here</p>
