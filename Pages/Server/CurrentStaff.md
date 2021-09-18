@@ -106,7 +106,7 @@ permalink: Staff
       <img src="https://ranger-4297.github.io/TeenageClub/assets/images/avatars/Saori.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Saori | Trial Moderator </h5>
-        <p class="card-text">Content here</p>
+        <p class="card-text">Best Woman</p>
       </div>
     </div>
   </div>
