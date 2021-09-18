@@ -22,8 +22,6 @@ title: Teenageclub
 email: a.rhykerw@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jekyll site for the teenageclub discord server
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ranger-4297.github.io/TeenageClub/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Ranger_4297
 github_username:  Ranger-4297
 
