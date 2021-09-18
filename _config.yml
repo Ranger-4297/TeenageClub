@@ -28,8 +28,9 @@ twitter_username: Ranger_4297
 github_username:  Ranger-4297
 
 # Build settings
+remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
-plugins:
+gitplugins:
   - jekyll-feed
 
 # Exclude from processing.
