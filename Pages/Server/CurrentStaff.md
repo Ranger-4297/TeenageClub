@@ -50,7 +50,7 @@ permalink: Staff
       <img src="https://ranger-4297.github.io/TeenageClub/assets/images/avatars/Ranger.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Ranger | Community Manager</h5>
-        <p class="card-text">Content here</p>
+        <p class="card-text">Yes. I'm a furry. No, I don't fuck animals</p>
       </div>
     </div>
   </div>
