@@ -5,7 +5,7 @@ description: Command syntax & extra
 permalink: Commandbook
 ---
 
-![TCModeration-Guides](images/TCG.png)
+![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCCH.png)
 
 Largely copied/pasted help commands :joy:
 I couldn't really be arsed to make my own descriptions.

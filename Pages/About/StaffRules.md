@@ -5,7 +5,7 @@ description: Extra rules staff members need to follow
 permalink: Staff-Rules
 ---
 
-![TCStaff-Rules](images/TCSR.png)
+![TCStaff-Rules](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCSR.png)
 
 
 Written and composed under our staff rules, server rules, and guidelines by Ranger (765316548516380732).

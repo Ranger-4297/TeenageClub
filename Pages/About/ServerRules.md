@@ -5,7 +5,7 @@ description: Rules the general public of our server need to follow
 permalink: Rules
 ---
 
-![TCRules](images/TCR.png)
+![TCRules](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCR.png)
 
 
 Written and composed under our staff rules, server rules, and guidelines by Ranger (765316548516380732).
