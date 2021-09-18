@@ -115,7 +115,7 @@ permalink: Staff
       <img src="https://ranger-4297.github.io/TeenageClub/assets/images/avatars/Litzie.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Litzie | Trial Moderator</h5>
-        <p class="card-text">Content here</p>
+        <p class="card-text">"nicest trial mod ever <3"</p>
       </div>
     </div>
   </div>
