@@ -77,7 +77,7 @@ permalink: Staff
       <img src="https://ranger-4297.github.io/TeenageClub/assets/images/avatars/Hrutika.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Hrutika | Moderator</h5>
-        <p class="card-text">Content here</p>
+        <p class="card-text"></p>
       </div>
     </div>
   </div>
