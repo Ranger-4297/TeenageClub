@@ -19,58 +19,112 @@ This includes commands like undelete and clean.
 ---
 
 ## Contents
-  * [Logs](#logs)
-      - [Description](#description)
-      - [Role(s) needed](#role-s--needed)
-      - [Syntax](#syntax)
-  * [Undelete](#undelete)
-      - [Description](#description-1)
-      - [Role(s) needed](#role-s--needed-1)
-      - [Syntax](#syntax-1)
-  * [Clean](#clean)
-      - [Description](#description-2)
-      - [Role(s) needed](#role-s--needed-2)
-      - [Syntax](#syntax-2)
-  * [Modinfo](#modinfo)
-      - [Description](#description-3)
-      - [Role(s) needed](#role-s--needed-3)
-      - [Syntax](#syntax-3)
-  * [Cases](#cases)
-      - [Description](#description-4)
-      - [Role(s) needed](#role-s--needed-4)
-      - [Syntax](#syntax-4)
-  * [Case](#case)
-      - [Description](#description-5)
-      - [Role(s) needed](#role-s--needed-5)
-      - [Syntax](#syntax-5)
-  * [Delcase](#delcase)
-      - [Description](#description-6)
-      - [Role(s) needed](#role-s--needed-6)
-      - [Syntax](#syntax-6)
-  * [Warn](#warn)
-      - [Description](#description-7)
-      - [Role(s) needed](#role-s--needed-7)
-      - [Syntax](#syntax-7)
-  * [Mute](#mute)
-      - [Description](#description-8)
-      - [Role(s) needed](#role-s--needed-8)
-      - [Syntax](#syntax-8)
-  * [Unmute](#unmute)
-      - [Description](#description-9)
-      - [Role(s) needed](#role-s--needed-9)
-      - [Syntax](#syntax-9)
-  * [Kick](#kick)
-      - [Description](#description-10)
-      - [Role(s) needed](#role-s--needed-10)
-      - [Syntax](#syntax-10)
-  * [Ban](#ban)
-      - [Description](#description-11)
-      - [Role(s) needed](#role-s--needed-11)
-      - [Syntax](#syntax-11)
-  * [Unban](#unban)
-      - [Description](#description-12)
-      - [Role(s) needed](#role-s--needed-12)
-      - [Syntax](#syntax-12)
+
+<details>
+    <summary>click to expand</summary>
+
+<ul>
+  <li><a href="#logs">Logs</a>
+    <ul>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#roles-needed">Role(s) needed</a></li>
+    <li><a href="#syntax">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#undelete">Undelete</a>
+    <ul>
+    <li><a href="#description-1">Description</a></li>
+    <li><a href="#roles-needed-1">Role(s) needed</a></li>
+    <li><a href="#syntax-1">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#clean">Clean</a>
+    <ul>
+    <li><a href="#description-2">Description</a></li>
+    <li><a href="#roles-needed-2">Role(s) needed</a></li>
+    <li><a href="#syntax-2">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#modinfo">Modinfo</a>
+    <ul>
+    <li><a href="#description-3">Description</a></li>
+    <li><a href="#roles-needed-3">Role(s) needed</a></li>
+    <li><a href="#syntax-3">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#cases">Cases</a>
+      <ul>
+    <li><a href="#description-4">Description</a></li>
+    <li><a href="#roles-needed-4">Role(s) needed</a></li>
+    <li><a href="#syntax-4">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#case">Case</a>
+    <ul>
+    <li><a href="#description-5">Description</a></li>
+    <li><a href="#roles-needed-5">Role(s) needed</a></li>
+    <li><a href="#syntax-5">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#delcase">DelCase</a>
+    <ul>
+    <li><a href="#description-6">Description</a></li>
+    <li><a href="#roles-needed-6">Role(s) needed</a></li>
+    <li><a href="#syntax-6">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#warn">Warn</a>
+    <ul>
+    <li><a href="#description-7">Description</a></li>
+    <li><a href="#roles-needed-7">Role(s) needed</a></li>
+    <li><a href="#syntax-7">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#mute">Mute</a>
+    <ul>
+    <li><a href="#description-8">Description</a></li>
+    <li><a href="#roles-needed-8">Role(s) needed</a></li>
+    <li><a href="#syntax-8">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#unmute">Unmute</a>
+    <ul>
+    <li><a href="#description-9">Description</a></li>
+    <li><a href="#roles-needed-9">Role(s) needed</a></li>
+    <li><a href="#syntax-9">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#kick">Kick</a>
+    <ul>
+    <li><a href="#description-10">Description</a></li>
+    <li><a href="#roles-needed-10">Role(s) needed</a></li>
+    <li><a href="#syntax-10">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#ban">Ban</a>
+    <ul>
+    <li><a href="#description-11">Description</a></li>
+    <li><a href="#roles-needed-11">Role(s) needed</a></li>
+    <li><a href="#syntax-11">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#unban">Unban</a>
+    <ul>
+    <li><a href="#description-12">Description</a></li>
+    <li><a href="#roles-needed-12">Role(s) needed</a></li>
+    <li><a href="#syntax-12">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#extrahelp">Ex</a>
+    <ul>
+    <li><a href="#clean">Clean</a></li>
+      <ul>
+        <li><a href="#regex-flag">Regex flag</a></li>
+      </ul>
+    </ul>
+  </li>
+</ul>
+</details>
 
 ---
 ## Logs
@@ -239,9 +293,13 @@ This command is locked for those of our staff team ranking at 'Moderator' & belo
 Unban <User:Mention/ID> [Reason:Text]
 ```
 ---
-##Extra/help
-###Clean
-####Regex flag
+## Extra/help
+### Clean
+#### Regex flag
 The regex flag can be used to delete any messages containing a given word. For example: `Clean 100 -r "cum"` OR anything that isn't AlphaNumerical (Alphabet & Numbers) you could do `Clean 100 -r "/[^a-zA-Z\d\s:\u00C0-\u00FF]/g`"
         Regex case insensitive
 The just makes sure what you've given isn't case sensitive. I'd add this to most clean commands if you use the Regex flag
+
+---
+
+[Back to top](#welcome)
