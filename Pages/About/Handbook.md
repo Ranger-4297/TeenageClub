@@ -22,7 +22,7 @@ This includes commands like undelete and clean.
 ## Contents
 
 <details>
-    <summary class="text">click to expand</summary>
+    <summary class="text-primary">click to expand</summary>
 
 <ul>
   <li><a href="#logs">Logs</a>
