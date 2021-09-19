@@ -58,7 +58,7 @@ permalink: Staff
         <img src="./assets/images/avatars/Pigeon.png" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title text-secondary">Pigeon | Head Mod</h5>
-          <p class="card-text">Content here</p>
+          <p class="card-text">Bro idk</p>
         </div>
       </div>
     </div>
