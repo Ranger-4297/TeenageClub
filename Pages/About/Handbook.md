@@ -7,13 +7,14 @@ permalink: Commandbook
 
 ![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCCH.png)
 
+
 Largely copied/pasted help commands :joy:
 I couldn't really be arsed to make my own descriptions.
 
 ---
 
 # Welcome!
-This doscument/handbook contains a full, complete and updated list of all moderation commands & how to use them in TeenageClub.
+This document/handbook contains a full, complete and updated list of all moderation commands & how to use them in TeenageClub.
 This includes commands like undelete and clean.
 
 ---
@@ -21,7 +22,7 @@ This includes commands like undelete and clean.
 ## Contents
 
 <details>
-    <summary>click to expand</summary>
+    <summary class="text">click to expand</summary>
 
 <ul>
   <li><a href="#logs">Logs</a>
@@ -125,6 +126,7 @@ This includes commands like undelete and clean.
   </li>
 </ul>
 </details>
+
 
 ---
 ## Logs
