@@ -8,7 +8,7 @@ permalink: Commandbook
 ![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCCH.png)
 
 
-Largely copied/pasted help commands :joy:
+Largely copied/pasted help commands
 I couldn't really be arsed to make my own descriptions.
 
 ---
