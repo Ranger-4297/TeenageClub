@@ -215,4 +215,3 @@ Server bans can be appealed a total of 1 time(s). If you're banned again, you ar
 Teenageclub follows [Discord Terms & conditions](https://discord.com/terms) & [Discord community guidelines](https://discord.com/guidelines).
 
 Out vanity URL is [discord.gg/teenageclub](https://discord.gg/teenageclub)
-[back](./)

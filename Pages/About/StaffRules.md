@@ -91,5 +91,3 @@ Any member of the server is sanctioned in according to the rules. Whether they c
 #### DC 6.
 
 While allowed to ask members anything <span style="background-color: #89cff0">WITHIN REASON</span>, asking members of things that violate our staff rules or making outrages is out of the question and can also result in the loss of rank, depending on what was asked.
-
-[back](./)
