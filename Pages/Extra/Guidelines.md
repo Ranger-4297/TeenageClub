@@ -21,7 +21,7 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 ## Make feature requests using GitHub's [Pull Requests](https://github.com/Ranger-4297/TeenageClub/pulls)
 We use GitHub PR's to keep track of changes, implementations and feature requests. Create a feature request by [opening a new pull request](https://github.com/Ranger-4297/TeenageClub/compare)
 
-<div class="alert alert-danger" role="alert">
+<div class="alert alert-warning" role="alert">
   <h4 class="alert-heading text-dark">Please note!</h4>
   <p>Before you can create a pull request, you need to fork the repository. To learn how to, go to <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo" class="alert-link">this link</a></p>
   <p>You will then also need to add your changes to the relevent files. <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" class="alert-link">How to create a pull request</a></p>
