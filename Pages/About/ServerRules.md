@@ -22,38 +22,61 @@ This document is to provide some extra information on our rules, aswell as any e
 
 ---
 
-- [General rules](#general-rules)
-	- [Rule 1. Discrimination](#rule-1-discrimination)
-	- [Rule 2. Drama](#rule-2-drama)
-	- [Rule 3. NSFW and Adult content](#rule-3-nsfw-and-adult-content)
-	- [Rule 4. Spam, flooding and trolling](#rule-4-spam-flooding-and-trolling)
-	- [Rule 5. Respectfulness](#rule-5-respectfulness)
-	- [Rule 6. Advertising](#rule-6-advertising)
-	- [Rule 7. Alts and bypassing](#rule-7-alts-and-bypassing)
-	- [Voice chat rules](#voice-chat-rules)
-	- [Rule 1. No annoying, loud or ear-rapey sounds](#rule-1-no-annoying-loud-or-ear-rapey-sounds)
-	- [Rule 2. Do not steal a music bot](#rule-2-do-not-steal-a-music-bot)
-	- [Rule 3. Pornographic content](#rule-3-pornographic-content)
-- [Bot rules](#bot-rules)
-	- [Rule 1. Spamming commands](#rule-1-spamming-commands)
-	- [Rule 2. Channels](#rule-2-channels)
-- [Guides](#guides)
-	- [Guide 1.](#guide-1)
-	- [Guide 2.](#guide-2)
-	- [Guide 3.](#guide-3)
-	- [Guide 3.](#guide-3-1)
-	- [Guide 4.](#guide-4)
-	- [Guide 5.](#guide-5)
-- [Disclaimers](#disclaimers)
-	- [DC 1.](#dc-1)
-	- [DC 2.](#dc-2)
-	- [DC 3.](#dc-3)
-	- [DC 4.](#dc-4)
-	- [DC 5.](#dc-5)
-	- [DC 6.](#dc-6)
-- [Liability regarding dating](#liability-regarding-dating)
-- [Other information](#other-information)
+## Contents
 
+<details>
+    <summary class="text-primary">click to expand</summary>
+
+<ul>
+  <li><a href="#general-rules">General rules</a>
+    <ul>
+    <li><a href="#rule-1-discrimination">Rule 1. Discrimination</a></li>
+    <li><a href="#rule-2-drama">Rule 2. Drama</a></li>
+    <li><a href="#rule-3-nsfw-and-adult-content">Rule 3. NSFW & adult content</a></li>
+    <li><a href="#rule-4-spam-flooding-and-trolling">Rule 4. Spam, flooding, and trolling</a></li>
+    <li><a href="#rule-5-respectfulness">Rule 5. Respectfulness</a></li>
+    <li><a href="#rule-6-advertising">Rule 6. Advertising</a></li>
+    <li><a href="#rule-7-alts-and-bypassing">Rule 7. Alts and bypassing</a></li>
+    </ul>
+  </li>
+  <li><a href="#voice-chat-rules">Voice chat rules</a>
+    <ul>
+    <li><a href="#rule-1-sounds">Rule 1. Sounds</a></li>
+    <li><a href="#rule-2-bots">Rule 2. Bots</a></li>
+    <li><a href="#rule-2-bots">Rule 2. Bots</a></li>
+    <li><a href="#rule-3-pornographic-content">Rule 3. Pornographic content</a></li>
+    </ul>
+  </li>
+  <li><a href="#bot-rules">Bot rules</a>
+  <ul>
+    <li><a href="#rule-1-spamming-commands">Rule 1. Spamming commands</a></li>
+    <li><a href="#rule-2-chanells">Rule 2. Channels</a></li>
+  </ul>
+  </li>
+  <li><a href="#guides">Guides</a>
+  <ul>
+    <li><a href="#guide-1-channels">Guide 1. Channels</a></li>
+    <li><a href="#guide-2-baiting">Guide 2. Baiting</a></li>
+    <li><a href="#guide-3-filters">Guide 3. Filters</a></li>
+    <li><a href="#guide-4-loopholes">Guide 4. Loopholes</a></li>
+    <li><a href="#guide-5-consent">Guide 5. Consent</a></li>
+    <li><a href="#guide-5-witch-hunting">Guide 5. Witch-hunting</a></li>
+  </ul>
+  </li>
+  <li><a href="#disclaimers">Disclaimers</a>
+  <ul>
+    <li><a href="#dc-1-deleting-message">DC 1. Deleting messages</a></li>
+    <li><a href="#dc-2-changing-and-setting-nicknames">DC 2. Changing and setting nicknames</a></li>
+    <li><a href="#dc-3-discretion">DC 3. Discretion</a></li>
+    <li><a href="#dc-4-interpretations">DC 4. Interpretations</a></li>
+    <li><a href="#dc-5-rules-change">DC 5. Rules change</a></li>
+    <li><a href="#dc-6-staff-requests">DC 6. Staff requests</a></li>
+  </ul>
+  </li>
+  <li><a href="#liability-regarding-dating">Liability regarding dating</a></li>
+  <li><a href="#other-information">Other information</a></li>
+</ul>
+</details>
 ---
 
 ## General rules
@@ -100,12 +123,12 @@ Bypassing our rules and moderation procedures via alts or zalgo text of any form
 
 ## Voice chat rules
 
-#### Rule 1. No annoying, loud or ear-rapey sounds
+#### Rule 1. Sounds
 
 No annoying, loud, NSFW, or high pitched noises (this includes queueing with a music bot). Ear-rape is an automatic mute.
 
 
-#### Rule 2. Do not steal a music bot
+#### Rule 2. Bots
 
 Do not [attempt to] sabotage another person’s queue on the music bot, or [try to] steal a bot from them. You can contact us via Modmail if you want another one.
 
@@ -130,27 +153,27 @@ Keep bot commands to their respectful channels. <span style="background-color: #
 
 ## Guides
 
-### Guide 1.
+### Guide 1. Channels
 
 Use our channels for their intended purpose. For example; use <span style="background-color: #7289da">#serious-personal</span> for anything relating to personal issues and <span style="background-color: #7289da">#other-bots</span> for bot commands.
 
-### Guide 2.
+### Guide 2. Baiting
 
 Do not bait other members into breaking server rules. Including provoking rule breaking topics.
 
-### Guide 3.
+### Guide 3. Filters
 
 Do not attempt to bypass our word filters. Whether by substituting chars, via using another word or sniping it.
 
-### Guide 3.
+### Guide 4. Loopholes
 
 Do not attempt to find loopholes in or around our rules.
 
-### Guide 4.
+### Guide 5. Consent
 
 Do not send photos of any members in the server without express permission first.
 
-### Guide 5.
+### Guide 6. Witch hunting
 
 No personal attacks on other members. Do not public shame or humiliate another member for a mistake.
 
@@ -158,29 +181,29 @@ No personal attacks on other members. Do not public shame or humiliate another m
 
 ## Disclaimers
 
-#### DC 1.
+#### DC 1. Deleting messages
 
 Moderators reserve the right to delete any messages.
 
-#### DC 2.
+#### DC 2. Changing and setting nicknames
 
 Moderators reserve the right to change or set nicknames at any given time.
 
-#### DC 3.
+#### DC 3. Discretion
 
 Moderators reserve the right to use their own discretion, even if this rulebook doesn't explicitly state it.
 
-#### DC 4. 
+#### DC 4. Interpretations
 
 Moderators have the final say in all interpretations.
 
-#### DC 5.
+#### DC 5. Rules change
 
 Rules may change at any time and it is your responsibility to keep up with them.
 
-#### DC 6.
+#### DC 6. Staff requests
 
-You're <span style="background-color: #89cff0">required</span> to comply with anything a staff member asks of you.
+You're <span style="background-color: #89cff0">asked</span> that you abide by anything a staff member asks of you.
 
 ---
 
