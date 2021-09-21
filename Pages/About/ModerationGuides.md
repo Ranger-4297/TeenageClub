@@ -13,9 +13,6 @@ Written and composed under our staff rules, server rules, and guidelines by Rang
 ---
 
 # Welcome!
-
-
-
 This document is designed as a guide for what needs to be done in a situation.
 You DO NOT have to sanction people according to this. It is here as a guide.
 Please be sure to remain impartial when sanctioning users

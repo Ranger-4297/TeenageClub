@@ -13,9 +13,6 @@ Written and composed under our staff rules, server rules, and guidelines by Rang
 ---
 
 # Welcome
-
-
-
 This is the Staff rules documentation for Teenage Club’s staff team on Discord. Any staff in our server are required to
 follow these rules, and if do not, will face removal from staff team
 

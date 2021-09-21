@@ -13,9 +13,6 @@ Written and composed under our staff rules, server rules, and guidelines by Rang
 ---
 
 # Welcome!
-
-
-
 TeenageClub -- as our name suggests is a server made by and made for teenagers from the ages of 13-19.
 
 This document is to provide some extra information on our rules, aswell as any extra information that may pertain to the community
