@@ -205,7 +205,13 @@ While allowed to ask members anything WITHIN REASON, asking members of things th
 
 ## Other information
 
-Server bans can be appealed a total of 1 time(s). If you're banned again, you are permanently banned and are unable to appeal. 1st bans can be appealed [@ our ban appeals](https://forms.gle/YbeyooR41PZ6Ce3B8).
+#### OI. 1
+
+Server bans can be appealed a total of 1 time(s). On a second ban an appeal is denied.
+
+#### OI. 2
+
+Any users with a server profile picture that breaks the [../ServerRules] will be muted untill they have changed or removed it.
 
 <br>
 
