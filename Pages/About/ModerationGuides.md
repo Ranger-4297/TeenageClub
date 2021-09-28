@@ -211,7 +211,7 @@ Server bans can be appealed a total of 1 time(s). On a second ban an appeal is d
 
 #### OI. 2
 
-Any users with a server profile picture that breaks the [../ServerRules] will be muted untill they have changed or removed it.
+Any users with a server profile picture that breaks the a <a href="./Rules">ServerRules</a> will be muted untill they have changed or removed it.
 
 <br>
 
