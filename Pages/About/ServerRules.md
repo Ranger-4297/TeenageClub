@@ -119,7 +119,8 @@ Bypassing our rules and moderation procedures via alts or zalgo text of any form
 
 #### Rule 8. Talking about Dreamgender
 
-Any conversations contain the temrs 'dreamgender' or 'dream sexual' will result in a ban from the server. Don't ask why.
+Any conversations contain the terms; 'dreamgender' or 'dream sexual' will result in a ban from the server.
+Don't ask why.
 
 ---
 
