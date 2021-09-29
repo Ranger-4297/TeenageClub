@@ -116,6 +116,10 @@ It is prohibited to advertise any other community or service within our communit
 
 Bypassing our rules and moderation procedures via alts or zalgo text of any form is prohibited. If found to be bypassing moderative action such as a mute, you will face harsher punishments.
 
+#### Rule 8. Talking about Dreamgender
+
+Any conversations contain the temrs 'dreamgender' or 'dream sexual' will result in a ban from the server. Don't ask why.
+
 ---
 
 ## Voice chat rules
