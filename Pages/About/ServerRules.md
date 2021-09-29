@@ -34,7 +34,6 @@ This document is to provide some extra information on our rules, aswell as any e
     <li><a href="#rule-5-respectfulness">Rule 5. Respectfulness</a></li>
     <li><a href="#rule-6-advertising">Rule 6. Advertising</a></li>
     <li><a href="#rule-7-alts-and-bypassing">Rule 7. Alts and bypassing</a></li>
-    <li><a href="#rule-8-talking-about-dreamgender">Rule 8. Talking about Dreamgender</a></li>
     </ul>
   </li>
   <li><a href="#voice-chat-rules">Voice chat rules</a>
@@ -116,11 +115,6 @@ It is prohibited to advertise any other community or service within our communit
 #### Rule 7. Alts and bypassing
 
 Bypassing our rules and moderation procedures via alts or zalgo text of any form is prohibited. If found to be bypassing moderative action such as a mute, you will face harsher punishments.
-
-#### Rule 8. Talking about Dreamgender
-
-Any conversations contain the terms; 'dreamgender' or 'dream sexual' will result in a ban from the server.
-Don't ask why.
 
 ---
 
