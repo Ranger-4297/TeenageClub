@@ -34,6 +34,7 @@ This document is to provide some extra information on our rules, aswell as any e
     <li><a href="#rule-5-respectfulness">Rule 5. Respectfulness</a></li>
     <li><a href="#rule-6-advertising">Rule 6. Advertising</a></li>
     <li><a href="#rule-7-alts-and-bypassing">Rule 7. Alts and bypassing</a></li>
+    <li><a href="rule-8-talking-about-dreamgender">Rule 8. Talking about Dreamgender</a></li>
     </ul>
   </li>
   <li><a href="#voice-chat-rules">Voice chat rules</a>
