@@ -3,7 +3,6 @@ layout: default
 title: Staff
 description: Staff members in our server
 permalink: Staff
-
 ---
 
 <div class="row row-cols-1 row-cols-md-2">
