@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Staff
-description: Staff members in our server
+description: Current staff members in our server
 permalink: Staff
 ---
+
+# Last updated: Saturday October 2nd 2021 @ 22:40 
 
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
@@ -66,7 +68,7 @@ permalink: Staff
         <img src="./assets/images/avatars/Rage.png" class="card-img-top">
         <div class="card-body">
           <h5 class="card-title text-secondary">Ragesnow | Moderator</h5>
-          <p class="card-text">Content here</p>
+          <p class="card-text">"Hm"</p>
         </div>
       </div>
     </div>

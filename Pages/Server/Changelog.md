@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Changelog
-description: Server rules changelog
+description: Site changelog
 permalink: Changelog
 ---
 
