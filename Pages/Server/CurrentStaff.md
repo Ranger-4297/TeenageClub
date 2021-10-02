@@ -2,7 +2,7 @@
 layout: default
 title: Staff
 description: Current staff members in our server
-permalink: Staff
+permalink: server-staff
 ---
 
 # Last updated: Saturday October 2nd 2021 @ 22:40 

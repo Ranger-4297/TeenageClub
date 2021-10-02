@@ -2,7 +2,7 @@
 layout: default
 title: Mod Guides
 description: Rules the general public of our server need to follow
-permalink: Moderation-Guides
+permalink: mod-guides
 ---
 
 ![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCG.png)

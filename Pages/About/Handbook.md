@@ -2,7 +2,7 @@
 layout: default
 title: Handbook
 description: Command syntax & extra
-permalink: Commandbook
+permalink: handbook
 ---
 
 ![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCCH.png)

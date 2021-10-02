@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contributing guideliines
-permalink: contrib-gl
+permalink: contributing
 ---
 
 # Contributing to Teenageclub

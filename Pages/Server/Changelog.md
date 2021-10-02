@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 description: Site changelog
-permalink: Changelog
+permalink: changelog
 ---
 
 # Welcome!

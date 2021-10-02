@@ -2,7 +2,7 @@
 layout: default
 title: Server Rules
 description: Rules the general public of our server need to follow
-permalink: Rules
+permalink: rules
 ---
 
 ![TCRules](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCR.png)
