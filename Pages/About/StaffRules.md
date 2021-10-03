@@ -135,18 +135,15 @@ acceptable and may result in the loss of permissions.
 
 #### <a name="dc-2">DC 2. Changing and setting nicknames</a>
 
-While Moderators reserve the right to change or set nicknames at any given time, although should only do so if a nickname or
-username violates rules or staff instruction.
+Moderators reserve the right to change or set nicknames at any given time, although should only do so if a nickname or username violates rules or staff instruction.
 
 #### <a name="dc-3">DC 3. Discretion</a>
 
-As a Moderator, you reserve the right to use your own discretion, even if this rulebook doesn't explicitly state it.
-However, abusing these rights without acceptable reason leaves you viable for removal of staff.
+As a Moderator, you reserve the right to use your own discretion, even if this rulebook doesn't explicitly state it. However, abusing these rights without acceptable reason leaves you viable for removal of staff.
 
 #### <a name="dc-4">DC 4. Interpretations</a>
 
-Whilst Moderators have the final say in all interpretations, all staff members must do their best to investigate any
-sort of incident.
+Whilst Moderators have the final say in all interpretations, all staff members must do their best to investigate any sort of incident.
 
 #### <a name="dc-5">DC 5. According to rules</a>
 
@@ -154,6 +151,5 @@ Any member of the server is sanctioned in according to the rules. Whether they c
 
 #### <a name="dc-6">DC 6. Staff requests</a>
 
-While allowed to ask members anything <span style="background-color: #89cff0">WITHIN REASON</span>, asking members of
-things that violate our server staff rules or making outrages is out of the question and can also result in the loss of rank,
+While allowed to ask members anything <span style="background-color: #89cff0">WITHIN REASON</span>, asking members of things that violate our server staff rules or making outrages is out of the question and can also result in the loss of rank,
 depending on what was asked.
