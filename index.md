@@ -5,4 +5,7 @@ title: Teenageclub
 
 # Welcome!
 
-This is in no way the completed site. Once finished, I'll be adding a proper homepage : D
+Welcome to [teenagers.tk](https://teenagers.tk)!
+
+The official website for the Discord server [TeenageClub](https://discord.gg/WSysUXZrpD)
+A community server made *only* for teenagers *by* teenagers!
