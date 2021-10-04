@@ -2,7 +2,6 @@
 layout: default
 title: Teenageclub
 ---
-<link rel="stylesheet" href="assets\css\alerts.css">
 
 # Welcome!
 
@@ -19,21 +18,8 @@ Here we allow Teenagers to be themselves--to some degree
 
 Here's a few testimonies from some of our members;
 
-<div class="container mt-5">
-    <div class="alert alert-success new p-4">
-      <strong class="text-info">Quote 1</strong>
-      <p class="mb-0 text-light">I'm a new success alert</p>
-    </div>
-    <div class="alert alert-success new p-4">
-      <strong class="text-info">Quote 2</strong>
-      <p class="mb-0 text-light">I'm a new success alert</p>
-    </div>
-    <div class="alert alert-success new p-4">
-      <strong class="text-info">Quote 3</strong>
-      <p class="mb-0 text-light">I'm a new success alert</p>
-    </div>
-    <div class="alert alert-success new p-4">
-      <strong class="text-info">Quote 4</strong>
-      <p class="mb-0 text-light">I'm a new success alert</p>
-    </div>
-</div>
+
+<div w3-include-html="assets\html\quotes\quotes.html"></div>
+<script>
+includeHTML();
+</script>
