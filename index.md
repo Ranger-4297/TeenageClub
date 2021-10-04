@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teenageclub
+description: Official website for the TeenageClub Discord server
 ---
 
 # Welcome!
