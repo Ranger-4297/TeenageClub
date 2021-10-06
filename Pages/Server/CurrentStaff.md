@@ -86,7 +86,7 @@ permalink: server-staff
       <div class="card text-white bg-dark mb-3">
         <img src="./assets/images/avatars/Ash.png" class="card-img-top">
         <div class="card-body">
-          <h5 class="card-title text-secondary">Ash | Trial Moderator</h5>
+          <h5 class="card-title text-secondary">Ash | Moderator</h5>
           <p class="card-text">“i fucking love otters”</p>
         </div>
       </div>
@@ -95,26 +95,8 @@ permalink: server-staff
       <div class="card text-white bg-dark mb-3">
         <img src="./assets/images/avatars/Dango.png" class="card-img-top">
         <div class="card-body">
-          <h5 class="card-title text-secondary">Dango | Trial Moderator</h5>
+          <h5 class="card-title text-secondary">Dango | Moderator</h5>
           <p class="card-text">"“Someone who takes things seriously as a precaution, and is also making things equal for everyone. Be careful, stay safe and enjoy your time!”"</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card text-white bg-dark mb-3">
-        <img src="./assets/images/avatars/Saori.png" class="card-img-top">
-        <div class="card-body">
-          <h5 class="card-title text-secondary">Saori | Trial Moderator </h5>
-          <p class="card-text">"Best Woman"</p>
-        </div>
-      </div>
-    </div>
-    <div class="col mb-4">
-      <div class="card text-white bg-dark mb-3">
-        <img src="./assets/images/avatars/Litzie.png" class="card-img-top">
-        <div class="card-body">
-          <h5 class="card-title text-secondary">Litzie | Trial Moderator</h5>
-          <p class="card-text">"nicest trial mod ever <3"</p>
         </div>
       </div>
     </div>
