@@ -4,5 +4,4 @@ _site
 .jekyll-metadata
 .vscode/
 vendor
-Pages/testpage.md
-Mistakes.md
+Gemfile.lock
