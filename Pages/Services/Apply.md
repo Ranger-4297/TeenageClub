@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staff Applications
-description: Applications for out servers
+description: Applications for our servers
 permalink: applications
 ---
 
