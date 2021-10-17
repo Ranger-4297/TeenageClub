@@ -1,0 +1,13 @@
+$theme-colors: (
+    "newdark": #323232,
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+html .dropdown-item:hover, .dropdown-item:focus {
+    background-color: rgba(0, 0, 0, 0.3)
+}
+
+html .navbar-nav .dropdown-menu {
+    background-color: #272727;
+}
