@@ -5,25 +5,34 @@ description: Command syntax & extra
 permalink: handbook
 ---
 
+<style>
+  span {
+    background-color: #2a2a2a;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+     border-radius: 4px;
+  }
+</style>
+
 ![TCModeration-Guides](https://ranger-4297.github.io/TeenageClub/assets/images/titles/TCCH.png)
 
 
 Largely copied/pasted help commands
 I couldn't really be arsed to make my own descriptions.
 
----
+<hr>
 
 # Welcome!
 This document/handbook contains a full, complete and updated list of all moderation commands & how to use them in TeenageClub.
 This includes commands like undelete and clean.
 
----
+<hr>
 
 ## Contents
 
 <details>
     <summary class="text-primary">click to expand</summary>
-
 <ul>
   <li><a href="#logs">Logs</a>
     <ul>
@@ -127,8 +136,8 @@ This includes commands like undelete and clean.
 </ul>
 </details>
 
+<hr>
 
----
 ## Logs
 #### Description
 Creates a log of the last 100  messages in the current channel. This includes deleted messages within an hour.
@@ -149,16 +158,17 @@ Normal uses of our server may also view these links. But will not be have adjace
  </code>
 </pre>
 
----
+<hr>
+
 ## Undelete
 #### Description
 Views the last 10 recently deleted messages from the last hour.
 By default it views *your* messages<br>
-If you specify the <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a </span> flag it views all users deleted messages<br>
-Or, <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u </span> to view a specific users deleted messages<br>
-You need a staff role to use <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a </span>&nbsp;& <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u &nbsp;</span><br>
-And <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u &nbsp;</span> overrides <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a &nbsp;</span><br>
-You can also use a target channel with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-channel &nbsp; </span>
+If you specify the <span>&nbsp;-a&nbsp;</span> flag it views all users deleted messages<br>
+Or, <span>&nbsp;-u&nbsp;</span> to view a specific users deleted messages<br>
+You need a staff role to use <span>&nbsp;-a&nbsp;</span> & <span>&nbsp;-u&nbsp;</span><br>
+And <span>&nbsp;-u&nbsp;</span> overrides <span>&nbsp;-a&nbsp;</span><br>
+You can also use a target channel with <span>&nbsp;-channel&nbsp;</span>
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
@@ -175,13 +185,14 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Clean
 #### Description
 Delete a specified number of messages from chat, optionally filtering by user, max age and regex or ignoring pinned messages.<br>
-**Warning:** Using <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; clean \<UserID> \<Amount> &nbsp;</span> does not work. This is because the user ID is interpreted as the amount. As it is over the limit of 100, it is treated as invalid.<br>
-You can use <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; clean \<Amount> \<UserID> &nbsp;</span> instead or mention the user.<br>
-Specify a regex with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -r regex_here &nbsp;</span> and max age with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -ma maxage_here &nbsp;</span>
+**Warning:** Using <span>&nbsp;clean \<UserID> \<Amount>&nbsp;</span> does not work. This is because the user ID is interpreted as the amount. As it is over the limit of 100, it is treated as invalid.<br>
+You can use <span>&nbsp;clean \<Amount> \<UserID>&nbsp;</span> instead or mention the user.<br>
+Specify a regex with <span>&nbsp;-r regex_here&nbsp;</span> and max age with <span>&nbsp;-ma maxage_here&nbsp;</span>
 **Note:** Will only look in the last 1k messages
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
@@ -206,11 +217,12 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Modinfo
 #### Description
 Allows staff members to view a users history on moderation. Includes username, userID, nickname,  account creation date & total number of each sanction.<br>
-If provided the <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -n &nbsp;</span> flag, then does **not** show the sanction count.
+If provided the <span>&nbsp;-n&nbsp;</span> flag, then does **not** show the sanction count.
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
@@ -225,7 +237,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Cases
 #### Description
 Shows all cases belonging to a user. Including warnings, mutes, kicks & bans.
@@ -238,7 +251,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Case
 #### Description
 Provides information on a moderative case, such as moderator, user, case type & reason.
@@ -251,7 +265,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Delcase
 #### Description
 Deletes any given case.
@@ -264,7 +279,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Warn
 #### Description
 Warns a user for a given reason. Stores the warning on our case system. 1st tier punishment on record.
@@ -277,8 +293,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
+<hr>
 
----
 ## Mute
 #### Description
 Mute a user for a given reason & duration. Stores the mute on our case system. 2nd tier punishment on record.
@@ -295,7 +311,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Unmute
 #### Description
 Unmutes a user for a given reason & duration. Stores the Unmute on our case system. 1st tier punishment removal.
@@ -308,7 +325,8 @@ Any & all moderators of our staff team have sufficient permissions to run the co
  </code>
 </pre>
 
----
+<hr>
+
 ## Kick
 #### Description
 Kicks a user for a given reason. Stores the Kick on our case system. 3rd tier punishment on record.
@@ -320,6 +338,9 @@ This command is locked for those of our staff team ranking at 'Trial Moderator'.
   Kick &lt;User:Mention/ID&gt; [Reason:Text]
  </code>
 </pre>
+
+<hr>
+
 ## Ban
 #### Description
 Bans a user for a given reason & duration. Stores the Ban on our case system. 4th tier punishment on record.
@@ -338,7 +359,8 @@ This command is locked for those of our staff team ranking at 'Trial Moderator'.
  </code>
 </pre>
 
----
+<hr>
+
 ## Unban
 #### Description
 Unbans a user for a given reason. Stores the Unban on our case system. 2nd tier punishment removal.
@@ -351,15 +373,16 @@ This command is locked for those of our staff team ranking at 'Moderator' & belo
  </code>
 </pre>
 
----
+<hr>
+
 ## Extra/help
 ### Clean
 #### Regex flag
 The regex flag can be used to delete any messages containing a given word.<br>
-For example: <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;Clean 100 -r "cum" &nbsp;</span>, <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;Clean 100 -r \bporn(.)hub\b &nbsp;</span><br>
-The <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-i&nbsp; </span>just makes sure what you've given isn't case sensitive.<br>
+For example: <span>&nbsp;Clean 100 -r "cum"&nbsp;</span>, <span>&nbsp;Clean 100 -r \bporn(.)hub\b &nbsp;</span><br>
+The <span>&nbsp;-i&nbsp;</span> just makes sure what you've given isn't case sensitive.<br>
 I'd add this to most clean commands if you use the Regex flag
 
----
+<hr>
 
 [Back to top](#welcome)
