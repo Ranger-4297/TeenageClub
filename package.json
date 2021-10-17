@@ -1,0 +1,23 @@
+{
+  "name": "teenageclub",
+  "version": "1.0.0",
+  "description": "Download the [latest ruby installer](https://rubyinstaller.org/downloads/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranger-4297/TeenageClub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranger-4297/TeenageClub/issues"
+  },
+  "homepage": "https://github.com/Ranger-4297/TeenageClub#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
