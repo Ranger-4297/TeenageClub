@@ -131,83 +131,113 @@ This includes commands like undelete and clean.
 ---
 ## Logs
 #### Description
-Creates a log of the last messages in the current channel. This includes deleted messages within an hour.
+Creates a log of the last 100  messages in the current channel. This includes deleted messages within an hour.
 All logs can be found [here](https://yagpdb.xyz/manage/794236519543734273/logging/).
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command and view these links.
 Normal uses of our server may also view these links. But will not be have adjacent perms such that they can see deleted messages.
 #### Syntax
-```
-Logs [Count:Whole number]
-```
-```
-[-channel channel:Channel - Optional channel to log instead]
-```
+
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Logs [Count:Whole number]
+ </code>
+</pre>
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  [-channel channel:Channel - Optional channel to log instead]
+ </code>
+</pre>
+
 ---
 ## Undelete
 #### Description
-Views the first 10 recent deleted messages. By default, only the current user's deleted messages will show. You can use the `-a` flag to view all users delete messages, or `-u` to view a specified user's deleted messages. Both `-a` and `-u` require Manage Messages permission. **Note:** `-u` overrides -a meaning even though `-a` might've been specified along with `-u` only messages from the user provided using `-u` will be shown.
+Views the last 10 recently deleted messages from the last hour.
+By default it views *your* messages<br>
+If you specify the <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a </span> flag it views all users deleted messages<br>
+Or, <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u </span> to view a specific users deleted messages<br>
+You need a staff role to use <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a </span>&nbsp;& <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u &nbsp;</span><br>
+And <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-u &nbsp;</span> overrides <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-a &nbsp;</span><br>
+You can also use a target channel with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-channel &nbsp; </span>
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Undelete 
-```
-```
-[-a a:Switch - from all users]
-[-u u:Mention/ID - from a specific user]
-[-channel channel:Channel - Optional target channel]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Undelete
+ </code>
+</pre>
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  [-a a:Switch - from all users]
+  [-u u:Mention/ID - from a specific user]
+  [-channel channel:Channel - Optional target channel]
+ </code>
+</pre>
+
 ---
 ## Clean
 #### Description
-Delete the last number of messages from chat, optionally filtering by user, max age and regex or ignoring pinned messages. 
-**Warning:** Using `clean <userId> <amount>` does not work. This is because the user ID is interpreted as the amount.
-As it is over the limit of 100, it is treated as invalid. You can use `clean <amount> <userId>` instead or mention the user.
-Specify a regex with `-r regex_here` and max age with `-ma 1h10m`
-You can invert the regex match (i.e. only clear messages that do not match the given regex) by supplying the `-im` flag **Note:** Will only look in the last 1k messages
+Delete a specified number of messages from chat, optionally filtering by user, max age and regex or ignoring pinned messages.<br>
+**Warning:** Using <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; clean \<UserID> \<Amount> &nbsp;</span> does not work. This is because the user ID is interpreted as the amount. As it is over the limit of 100, it is treated as invalid.<br>
+You can use <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; clean \<Amount> \<UserID> &nbsp;</span> instead or mention the user.<br>
+Specify a regex with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -r regex_here &nbsp;</span> and max age with <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -ma maxage_here &nbsp;</span>
+**Note:** Will only look in the last 1k messages
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Clean <Num:Whole number>
-Clean <Num:Whole number> <User:Mention/ID>
-Clean <User:Mention/ID> <Num:Whole number>
-```
-```
-[-r r:Text - Regex]
-[-im im:Switch - Invert regex match]
-[-ma ma:Duration - Max age]
-[-minage minage:Duration - Min age]
-[-i i:Switch - Regex case insensitive]
-[-nopin nopin:Switch - Ignore pinned messages]
-[-a a:Switch - Only remove messages with attachments]
-[-to to:Whole number - Stop at this msg ID]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Clean &lt;Num:Whole number&gt;
+  Clean &lt;Num:Whole number&gt; &lt;User:Mention/ID&gt;
+  Clean &lt;User:Mention/ID&gt; &lt;Num:Whole number&gt;
+ </code>
+</pre>
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  [-r r:Text - Regex]
+  [-im im:Switch - Invert regex match]
+  [-ma ma:Duration - Max age]
+  [-minage minage:Duration - Min age]
+  [-i i:Switch - Regex case insensitive]
+  [-nopin nopin:Switch - Ignore pinned messages]
+  [-a a:Switch - Only remove messages with attachments]
+  [-to to:Whole number - Stop at this msg ID]
+ </code>
+</pre>
+
 ---
 ## Modinfo
 #### Description
-Allows staff members to view a users information for moderation. Includes username, userID, nickname,  account creation date & total number of each sanction.
-If provided the `-n` flag, then does not show the sanction count.
+Allows staff members to view a users history on moderation. Includes username, userID, nickname,  account creation date & total number of each sanction.<br>
+If provided the <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp; -n &nbsp;</span> flag, then does **not** show the sanction count.
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Modinfo <User:Mention/ID>
-```
-```
-[-n r:Switch - Doesn't show sanction count]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Modinfo &lt;User:Mention/ID&gt;
+ </code>
+</pre>
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  [-n r:Switch - Doesn't show sanction count]
+ </code>
+</pre>
+
 ---
 ## Cases
 #### Description
-Shows all cases belonging to a user. Includes warnings, mutes, unmutes, kicks & bans.
+Shows all cases belonging to a user. Including warnings, mutes, kicks & bans.
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Cases <User:Mention/ID> [page]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Cases &lt;User:Mention/ID&gt; [page]
+ </code>
+</pre>
+
 ---
 ## Case
 #### Description
@@ -215,9 +245,12 @@ Provides information on a moderative case, such as moderator, user, case type & 
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Case <Case:Case Number>
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Case &lt;Case:Case Number&gt;
+ </code>
+</pre>
+
 ---
 ## Delcase
 #### Description
@@ -225,18 +258,26 @@ Deletes any given case.
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Delcase <Case:Case Number>
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Delcase &lt;Case:Case Number&gt;
+ </code>
+</pre>
+
+---
 ## Warn
 #### Description
 Warns a user for a given reason. Stores the warning on our case system. 1st tier punishment on record.
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Warn <User:Mention/ID> <Reason:Text>
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Warn &lt;User:Mention/ID&gt; &lt;Reason:Text&gt;
+ </code>
+</pre>
+
+
 ---
 ## Mute
 #### Description
@@ -244,13 +285,16 @@ Mute a user for a given reason & duration. Stores the mute on our case system. 2
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Mute <User:Mention/ID> [Duration:Duration] [Reason:Text] 
-Mute <User:Mention/ID> [Reason:Text] [Duration:Duration] 
-Mute <User:Mention/ID> [Duration:Duration>]
-Mute <User:Mention/ID> [Reason:Text]
-Mute <User:Mention/ID>
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Mute &lt;User:Mention/ID&gt; [Duration:Duration] [Reason:Text] 
+  Mute &lt;User:Mention/ID&gt; [Reason:Text] [Duration:Duration] 
+  Mute &lt;User:Mention/ID&gt; [Duration:Duration>]
+  Mute &lt;User:Mention/ID&gt; [Reason:Text]
+  Mute &lt;User:Mention/ID&gt;
+ </code>
+</pre>
+
 ---
 ## Unmute
 #### Description
@@ -258,9 +302,12 @@ Unmutes a user for a given reason & duration. Stores the Unmute on our case syst
 #### Role(s) needed
 Any & all moderators of our staff team have sufficient permissions to run the command.
 #### Syntax
-```
-Unmute <User:Mention/ID> [Reason:Text]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Unmute &lt;User:Mention/ID&gt; [Reason:Text]
+ </code>
+</pre>
+
 ---
 ## Kick
 #### Description
@@ -268,22 +315,29 @@ Kicks a user for a given reason. Stores the Kick on our case system. 3rd tier pu
 #### Role(s) needed
 This command is locked for those of our staff team ranking at 'Trial Moderator'. 'Moderator's and above have permission to run this command.
 #### Syntax
-```
-Kick <User:Mention/ID> [Reason:Text]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Kick &lt;User:Mention/ID&gt; [Reason:Text]
+ </code>
+</pre>
 ## Ban
 #### Description
 Bans a user for a given reason & duration. Stores the Ban on our case system. 4th tier punishment on record.
 #### Role(s) needed
 This command is locked for those of our staff team ranking at 'Trial Moderator'. 'Moderator's and above have permission to run this command.
 #### Syntax
-```
-Ban <User:Mention/ID> [Reason:Text]
-```
-```
-[-d d:Duration - Duration]
-[-ddays ddays:Whole number - Delete Days]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Ban &lt;User:Mention/ID&gt; [Reason:Text]
+ </code>
+</pre>
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  [-d d:Duration - Duration]
+  [-ddays ddays:Whole number - Delete Days]
+ </code>
+</pre>
+
 ---
 ## Unban
 #### Description
@@ -291,16 +345,20 @@ Unbans a user for a given reason. Stores the Unban on our case system. 2nd tier 
 #### Role(s) needed
 This command is locked for those of our staff team ranking at 'Moderator' & below. 'Head Mod's and above have permission to run this command.
 #### Syntax
-```
-Unban <User:Mention/ID> [Reason:Text]
-```
+<pre style="background-color: #2a2a2a ;">
+ <code>
+  Unban &lt;User:Mention/ID&gt; [Reason:Text]
+ </code>
+</pre>
+
 ---
 ## Extra/help
 ### Clean
 #### Regex flag
-The regex flag can be used to delete any messages containing a given word. For example: `Clean 100 -r "cum"` OR anything that isn't AlphaNumerical (Alphabet & Numbers) you could do `Clean 100 -r "/[^a-zA-Z\d\s:\u00C0-\u00FF]/g`"
-        Regex case insensitive
-The just makes sure what you've given isn't case sensitive. I'd add this to most clean commands if you use the Regex flag
+The regex flag can be used to delete any messages containing a given word.<br>
+For example: <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;Clean 100 -r "cum" &nbsp;</span>, <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;Clean 100 -r \bporn(.)hub\b &nbsp;</span><br>
+The <span style="background-color: #2a2a2a; border-color: white; border-style: solid; border-width: 1px; border-radius: 4px">&nbsp;-i&nbsp; </span>just makes sure what you've given isn't case sensitive.<br>
+I'd add this to most clean commands if you use the Regex flag
 
 ---
 
