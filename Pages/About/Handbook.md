@@ -379,7 +379,7 @@ This command is locked for those of our staff team ranking at 'Moderator' & belo
 ### Clean
 #### Regex flag
 The regex flag can be used to delete any messages containing a given word.<br>
-For example: <span>&nbsp;Clean 100 -r "cum"&nbsp;</span>, <span>&nbsp;Clean 100 -r \bporn(.)hub\b &nbsp;</span><br>
+For example: <span>&nbsp;Clean 100 -r "cum"&nbsp;</span>, <span>&nbsp;-clean 100 -r \bporn.?hub\b -i &nbsp;</span><br>
 The <span>&nbsp;-i&nbsp;</span> just makes sure what you've given isn't case sensitive.<br>
 I'd add this to most clean commands if you use the Regex flag
 
