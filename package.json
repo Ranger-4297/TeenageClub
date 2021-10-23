@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Ranger-4297/TeenageClub#readme",
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "bootstrap-material-icons": "^2.2.0",
     "sass-migrator": "^1.5.2"
   }
 }
