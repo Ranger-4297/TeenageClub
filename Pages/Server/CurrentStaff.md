@@ -66,38 +66,23 @@ permalink: server-staff
 				</div>
 			</div>
 		</div>
+		<div class="col-md-4">
+			<div class="card">
+				<img src="./assets/images/avatars/SussyBallah.png" class="card-img-top" alt="...">
+				<div class="card-body bg-dark">
+					<h5 class="card-title">SussyBallah | Mod</h5>
+					<p class="card-text text-light">"Shut up Paul"</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="card">
+				<img src="./assets/images/avatars/Deutan.png" class="card-img-top" alt="...">
+				<div class="card-body bg-dark">
+					<h5 class="card-title">Deutan | Mod</h5>
+					<p class="card-text text-light">"Hey :)"</p>
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="row">
-		<div class="col-md-6">
-			<div class="card mb-3">
-				<div class="row no-gutters align-items-center">
-					<div class="col-md-4">
-						<img src="./assets/images/avatars/SussyBallah.png" class="card-img" alt="...">
-					</div>
-					<div class="col-md-8">
-						<div class="card-body bg-dark">
-							<h5 class="card-title">SussyBallah | Mod</h5>
-							<p class="card-text text-light">"shut up Paul"</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-6">
-			<div class="card mb-3">
-				<div class="row no-gutters align-items-center">
-					<div class="col-md-4">
-						<img src="./assets/images/avatars/Deutan.png" class="card-img" alt="...">
-					</div>
-					<div class="col-md-8">
-						<div class="card-body bg-dark">
-							<h5 class="card-title">Deutan | Mod</h5>
-							<p class="card-tex">"Hey :)"</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-  </div>
-	<!-- row -->
 </div>
