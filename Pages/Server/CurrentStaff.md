@@ -67,18 +67,17 @@ permalink: server-staff
 			</div>
 		</div>
 	</div>
-	<!--<div class="row">
+	<div class="row">
 		<div class="col-md-6">
 			<div class="card mb-3">
 				<div class="row no-gutters align-items-center">
 					<div class="col-md-4">
-						<img src="https://source.unsplash.com/random/600x800" class="card-img" alt="...">
+						<img src="./assets/images/avatars/SussyBallah.png" class="card-img" alt="...">
 					</div>
 					<div class="col-md-8">
 						<div class="card-body bg-dark">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-tex"" This content is a little bit longer.</p>
-							<p class="card-teall class="text-muted">Last updated 3 mins all></p>
+							<h5 class="card-title">SussyBallah | Mod</h5>
+							<p class="card-text text-light">"shut up Paul"</p>
 						</div>
 					</div>
 				</div>
@@ -88,18 +87,17 @@ permalink: server-staff
 			<div class="card mb-3">
 				<div class="row no-gutters align-items-center">
 					<div class="col-md-4">
-						<img src="https://source.unsplash.com/random/600x800" class="card-img" alt="...">
+						<img src="./assets/images/avatars/Deutan.png" class="card-img" alt="...">
 					</div>
 					<div class="col-md-8">
 						<div class="card-body bg-dark">
-							<h5 class="card-title">Card title</h5>
-							<p class="card-tex"" This content is a little bit longer.</p>
-							<p class="card-teall class="text-muted">Last updated 3 mins all></p>
+							<h5 class="card-title">Deutan | Mod</h5>
+							<p class="card-tex">"Hey :)"</p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-  </div>-->
+  </div>
 	<!-- row -->
 </div>
