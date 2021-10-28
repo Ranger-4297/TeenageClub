@@ -85,7 +85,7 @@ Any discriminatory comments, emoji's, images or any other means of sending and/o
  <code >
   1st Offense - Verbal warning ( + <a href="/handbook#clean">Clean messagess</a>)
   2nd Offense - <a href="/handbook#warn">Bot warning</a> ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
-  3rd Offense - <a href="/handbook#mute">Mute</a> | 1h-2h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
+  3rd Offense - <a href="/handbook#mute">Mute</a> | 12h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   4th Offense - <a href="/handbook#kick">Kick</a> from community ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   5th Offense - <a href="/handbook#ban">Ban</a> from community ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
  </code>
@@ -109,7 +109,7 @@ Posting adult content is not allowed. Any content/statements that are sexually d
 <pre style="background-color: #2a2a2a ;">
  <code>
   1st Offense - <a href="/handbook#warn">Bot warning</a> ( + <a href="/handbook#clean">Clean messagess</a> / edit nickname(s) & Reference <a href="/rules">Rules</a> )
-  2nd Offense - <a href="/handbook#mute">Mute</a> | 1h-2h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
+  2nd Offense - <a href="/handbook#mute">Mute</a> | 12h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   3rd Offense - <a href="/handbook#kick">Kick</a> from community ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   4th Offense - <a href="/handbook#ban">Ban</a> from community ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
  </code>
@@ -125,7 +125,7 @@ Purge spam-like messages
  <code >
   1st Offense - Verbal warning ( + <a href="/handbook#clean">Clean messagess</a>)
   2nd Offense - <a href="/handbook#warn">Bot warning</a> ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
-  3rd Offense - <a href="/handbook#mute">Mute</a> | 1h-2h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
+  3rd Offense - <a href="/handbook#mute">Mute</a> | 12h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
  </code>
 </pre>
 
@@ -258,7 +258,7 @@ Do not bait other members into breaking server rules. Including provoking rule b
  <code>
   1st Offense - Verbal warning ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   2nd Offense - <a href="/handbook#warn">Bot warning</a> ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
-  3rd Offense - <a href="/handbook#mute">Mute</a> | 1h-2h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
+  3rd Offense - <a href="/handbook#mute">Mute</a> | 12h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
  </code>
 </pre>
 
@@ -290,7 +290,7 @@ Do not send photos of any members in the server without express permission first
  <code>
   1st Offense - Verbal warning ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
   2nd Offense - <a href="/handbook#warn">Bot warning</a> ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
-  3rd Offense - <a href="/handbook#mute">Mute</a> | 1h-2h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
+  3rd Offense - <a href="/handbook#mute">Mute</a> | 12h ( + <a href="/handbook#clean">Clean messagess</a> & Reference <a href="/rules">Rules</a> )
  </code>
 </pre>
 
