@@ -6,7 +6,7 @@ description: Official website for the TeenageClub Discord server
 
 # Welcome!
 
-Welcome to [teenagers.tk](https://teenagers.tk)!
+Welcome to [teenageclub.eu](https://teenageclub.eu)!
 
 The official website for the Discord server [TeenageClub](https://discord.gg/WSysUXZrpD)
 A community server made *only* for teenagers *by* teenagers!
