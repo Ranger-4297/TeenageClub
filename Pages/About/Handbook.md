@@ -125,6 +125,20 @@ This includes commands like undelete and clean.
     <li><a href="#syntax-12">Syntax</a></li>
     </ul>
   </li>
+  <li><a href="#lock">Lock</a>
+    <ul>
+    <li><a href="#description-13">Description</a></li>
+    <li><a href="#roles-needed-13">Role(s) needed</a></li>
+    <li><a href="#syntax-13">Syntax</a></li>
+    </ul>
+  </li>
+  <li><a href="#lockdown">Lockdown</a>
+    <ul>
+    <li><a href="#description-14">Description</a></li>
+    <li><a href="#roles-needed-14">Role(s) needed</a></li>
+    <li><a href="#syntax-14">Syntax</a></li>
+    </ul>
+  </li>
   <li><a href="#extrahelp">Ex</a>
     <ul>
     <li><a href="#clean">Clean</a></li>
@@ -371,6 +385,34 @@ This command is locked for those of our staff team ranking at 'Moderator' & belo
  <code>
   Unban &lt;User:Mention/ID&gt; [Reason:Text]
  </code>
+</pre>
+
+<hr>
+
+## Lock
+#### Description
+Locks a specified channel with an optional duration & message. 
+#### Role(s) needed
+Any & all moderators of our staff team have sufficient permissions to run the command.
+#### Syntax
+<pre style="background-color: #2a2a2a ;">
+  <code>
+  Lock &lt;Channel:Mention/ID&gt; [Duration:Duration] [Reason:Text]
+  </code>
+</pre>
+
+<hr>
+
+## Lockdown
+#### Description
+Locks down the server for a given reason.
+#### Role(s) needed
+Any & all moderators of our staff team have sufficient permissions to run the command.
+#### Syntax
+<pre style="background-color: #2a2a2a ;">
+  <code>
+  Lockdown [Reason:Text]
+  </code>
 </pre>
 
 <hr>
